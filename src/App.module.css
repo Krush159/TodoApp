@@ -1,0 +1,24 @@
+.App {
+    text-align: center;
+    background-color: rgb(241, 133, 169);
+    height:35em;
+    width:40vw;
+    border-radius: 50px;
+  }
+  .btn {
+      background-color: rgb(255, 0, 0);
+      color:rgb(255, 255, 255);
+      font-size: medium;
+      border-radius: 12px;
+      padding:10px
+  }
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .inp {
+    font-size: larger;
+  
+  }
